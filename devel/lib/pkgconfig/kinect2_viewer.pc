@@ -1,0 +1,8 @@
+prefix=/home/michele/catkinect/devel
+
+Name: kinect2_viewer
+Description: Description of kinect2_viewer
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/michele/catkinect/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/michele/catkinect/devel
+
+Name: intera_core_msgs
+Description: Description of intera_core_msgs
+Version: 5.3.0
+Cflags: -I/home/michele/catkinect/devel/include
+Libs: -L/home/michele/catkinect/devel/lib 
+Requires: message_runtime std_msgs geometry_msgs sensor_msgs actionlib_msgs

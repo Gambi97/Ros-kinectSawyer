@@ -1,0 +1,8 @@
+prefix=/home/michele/catkinect/devel
+
+Name: sawyer_description
+Description: Description of sawyer_description
+Version: 5.3.0
+Cflags: 
+Libs: -L/home/michele/catkinect/devel/lib 
+Requires: 
