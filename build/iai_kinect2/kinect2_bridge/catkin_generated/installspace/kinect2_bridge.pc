@@ -1,0 +1,8 @@
+prefix=/home/michele/catkinect/install
+
+Name: kinect2_bridge
+Description: Description of kinect2_bridge
+Version: 0.0.1
+Cflags: -I/home/michele/catkinect/install/include
+Libs: -L/home/michele/catkinect/install/lib 
+Requires: kinect2_registration

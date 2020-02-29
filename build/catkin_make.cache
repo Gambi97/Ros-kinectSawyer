@@ -1,0 +1,2 @@
+iai_kinect2/iai_kinect2:iai_kinect2/kinect2_bridge:iai_kinect2/kinect2_calibration:iai_kinect2/kinect2_registration:iai_kinect2/kinect2_viewer:intera_common/intera_common:intera_common/intera_core_msgs:intera_common/intera_motion_msgs:intera_common/intera_tools_description:intera_sdk/intera_examples:intera_sdk/intera_interface:intera_sdk/intera_sdk:sawyer_robot/sawyer_description:sawyer_robot/sawyer_robot
+-DCATKIN_DEVEL_PREFIX=/home/michele/catkinect/devel -DCMAKE_INSTALL_PREFIX=/home/michele/catkinect/install -G Unix Makefiles

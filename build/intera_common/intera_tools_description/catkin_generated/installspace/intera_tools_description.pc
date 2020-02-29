@@ -1,0 +1,8 @@
+prefix=/home/michele/catkinect/install
+
+Name: intera_tools_description
+Description: Description of intera_tools_description
+Version: 5.3.0
+Cflags: 
+Libs: -L/home/michele/catkinect/install/lib 
+Requires: 
