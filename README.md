@@ -17,3 +17,4 @@ $ roslaunch kinect2_bridge kinect2_bridge.launch
 
 $ rosrun kinect2_viewer Movimento.py
 
+### attualmente i file di funzionamento del programma non sono presenti per motivi di sicurezza
